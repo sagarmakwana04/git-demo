@@ -10,3 +10,4 @@ to learn Git and GitHub
 
 using documentation
 
+ammend commit
