@@ -1,7 +1,8 @@
 # hello world
 
-This is my first git repository
+This is GitHub Project repository
 
-to learn git tutorial
+to learn Git and GitHub
 
 using documentation
+
